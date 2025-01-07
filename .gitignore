@@ -1,4 +1,6 @@
 .idea
+.vscode
+.outfiles
 *.iml
 personal-9894.md
 
